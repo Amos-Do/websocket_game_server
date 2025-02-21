@@ -7,10 +7,10 @@
 $ cd workspace
 
 # clone into your workspace
-$ git clone
+$ git clone git@github.com:Amos-Do/websocket_game_server.git
 
 # move to project
-$ cd 
+$ cd websocket_game_server
 
 # run 
 $ go run main.go
